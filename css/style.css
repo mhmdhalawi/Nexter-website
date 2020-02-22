@@ -78,9 +78,9 @@ body {
 .line-1,
 .line-2,
 .line-3 {
-  height: 0.3vh;
+  height: 2px;
   background-color: white;
-  width: 4.5rem;
+  width: 50%;
   margin: 1rem auto; }
 
 .line-1 {
