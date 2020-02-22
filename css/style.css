@@ -75,6 +75,17 @@ body {
   grid-column: sidebar-start/sidebar-end;
   grid-row: 1/-1; }
 
+.line-1,
+.line-2,
+.line-3 {
+  height: 0.3vh;
+  background-color: white;
+  width: 4.5rem;
+  margin: 1rem auto; }
+
+.line-1 {
+  margin-top: 2rem; }
+
 .header {
   background-color: #54483a;
   grid-column: full-start/col-end 6; }
